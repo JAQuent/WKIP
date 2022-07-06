@@ -1,3 +1,5 @@
+Download compileted program [here](https://github.com/JAQuent/WKIP/releases/download/v1.0/WKIPv1.0.zip). 
+
 # What Key Is Pressed (WKIP) for Unity3D?
 A small utility program/tool that allows you to quickly find out what the Unity KeyCode or the Unity button name of the key/button that you're currently pressing is. . So that you don't have to spend ages to find this information for each input device. You can also use this to test this in settings where you can't install Unity3D. 
 
